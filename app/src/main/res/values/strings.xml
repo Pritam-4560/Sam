@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Samurai Sprint</string>
+    <string name="game_title">SAMURAI SPRINT</string>
+    <string name="game_subtitle">Way of the Ronin</string>
+    <string name="play_now">SPRINT NOW</string>
+    <string name="dojo_upgrades">DOJO UPGRADES</string>
+    <string name="character_select">WARRIORS</string>
+    <string name="achievements">HONOR TRIALS</string>
+    <string name="how_to_play">WAY OF COMBAT</string>
+    <string name="game_over">DEFEATED</string>
+    <string name="try_again">RISE AGAIN</string>
+    <string name="main_menu">SANCTUARY</string>
+</resources>

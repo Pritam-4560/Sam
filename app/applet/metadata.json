@@ -1,0 +1,8 @@
+{
+  "name": "Samurai Sprint",
+  "description": "High-octane feudal Japanese endless runner featuring fluid katana slashes, aerial double jumps, parrying, combo style meters, and warrior upgrades.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
